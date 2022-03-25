@@ -11,6 +11,6 @@ public class NaganoMain{
 				break;
 			}
 		}
-	System.out.println(count + "回折り曲げたら月に到達します(" + n + "mm)");
+		System.out.println(count + "回折り曲げたら月に到達します(" + n + "mm)");
 	}
 }
